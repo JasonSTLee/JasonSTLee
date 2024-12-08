@@ -5,6 +5,7 @@ Hello, I'm Jason Lee, an **aspiring data analyst** currently working as a **Perf
 - 📈 Market & Competitor Analysis
 - 🔎 Keyword Research
 - 🧪 A/B Testing
+- 💾 Querying Data with SQL
 
 ### 📚 **Projects**
 View my projects where I showcase data cleaning, manipulation, analysis and visualization.
