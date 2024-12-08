@@ -8,7 +8,7 @@ Hello, I'm Jason Lee, an **aspiring data analyst** currently working as a **Perf
 - 💾 Querying Data with SQL
 
 ### 📚 **Projects**
-View my projects where I showcase data cleaning, manipulation, analysis and visualization.
+View my [projects](https://github.com/JasonSTLee/Portfolio-Guide) where I showcase data cleaning, manipulation, analysis and visualization.
 
 ### ⚒️ **Tools**
 - Languages: Python (Pandas, Matplotlib, Requests), PostgreSQL
