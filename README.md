@@ -1,6 +1,6 @@
 ## About Me 🤙
 
-Hello, I'm Jason Lee, an **aspiring data analyst** currently working as a **Performance Marketing Manager** at [commercetools](https://commercetools.com/). I develop, analyze and report on marketing campaigns that drive pipeline growth and use data to inform strategy and optimizaitons. My skills include:
+Hello, I'm Jason Lee, an **aspiring data scientist** currently working as a **Performance Marketing Manager** at [commercetools](https://commercetools.com/). I develop, analyze and report on marketing campaigns that drive pipeline growth and use data to inform strategy and optimizaitons. My skills include:
 - 📊 Dashboard Creation & Reporting
 - 📈 Market & Competitor Analysis
 - 🔎 Keyword Research
